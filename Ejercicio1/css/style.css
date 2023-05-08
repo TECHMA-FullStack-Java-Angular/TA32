@@ -2,11 +2,7 @@ body {
   background-image: url(../images/background.jpg);
   background-size: cover;
   padding-top: 100px;
-
 }
-
-
-
 
 #loginForm {
   text-align: center;
@@ -17,41 +13,36 @@ body {
   border-top-right-radius: 5px;
   background-color: white;
   padding: 0px;
-
 }
-.instructions{
-    padding-left: 10px;
-    padding-top: 20px;
-
+.instructions {
+  padding-left: 10px;
+  padding-top: 20px;
 }
 
-.intro{
-    display: flex;
-    justify-content: space-between;
+.intro {
+  display: flex;
+  justify-content: space-between;
 }
 form {
   background-color: rgb(237, 227, 227);
 }
 
-.fa-lock{
-    padding-top: 50px;
-    padding-right: 50px;
+.fa-lock {
+  padding-top: 50px;
+  padding-right: 50px;
 }
 .buttons {
-
   display: flex;
-  justify-content:center;
-  
-
+  justify-content: center;
 }
-.btn{
-    margin-right: 10px;
-
+.btn-outline-secondary {
+  margin: 5px;
 }
+
 .footer {
   text-align: center;
 }
 .mb-3 {
   border-radius: 5px;
+  margin: 15px;
 }
-
