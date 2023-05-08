@@ -1,0 +1,20 @@
+
+body{
+    background-color:rgb(198, 194, 194);
+    padding-top: 50px;
+
+}
+.contact{
+    color: #769fe5;
+}
+#formulario{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.row {
+    padding-top: 10px;
+}
+.btn{
+    justify-content: center;
+}
