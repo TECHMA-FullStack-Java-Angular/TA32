@@ -13,30 +13,36 @@
       integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
       crossorigin="anonymous"
     />
+    <script src="https://kit.fontawesome.com/0a35e8168b.js" crossorigin="anonymous"></script>
   </head>
   <body>
+   
     <div class="container-fluid col-md-6 col-10">
-      <div id="loginForm" class="container-sm">
-        <h1>Login Form</h1>
+      <div id="loginForm">
+        <h3>Login Form</h3>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed,
           provident. Quo, reprehenderit, dolorum incidunt nihil a rerum quos
           quis accusantium, similique molestiae amet!
         </p>
       </div>
-      <div id="form" class="container-sm">
+      <div id="form" class="container">
+        <div class="intro">
         <div class="instructions">
-          <h3>Login to our site</h3>
+          <h4>Login to our site</h4>
           <p>Enter Username and Password</p>
         </div>
+        <div><i class="fa-solid fa-lock fa-2xl" style="color: #d5d6d8;"></i></div>
         
+        </div>
         <form>
+            
           <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label"></label>
             <input
               type="text"
               class="form-control"
-              id="exampleInputUsername"
+              id="Username"
               placeholder="Username"
               aria-describedby="basic-addon1"
             />
@@ -46,34 +52,38 @@
             <input
               type="password"
               class="form-control"
-              id="exampleInputPassword1"
+              id="Password"
               placeholder="Password"
             />
           </div>
           <div class="mb-3 d-grid gap-2">
             <button type="submit" class="btn btn-success">Login</button>
           </div>
+          <br>
         </form>
-        <br>
+       
       </div>
       <div >
         <br>
       <div class="footer">Login with</div>
       <br>
       <div class="buttons">
+      
+       
+        <div> 
+          <button type="button" class="btn btn-outline-secondary">
+            <i class="fa-brands fa-facebook-f"></i> Facebook 
+          </button>
+        </div>
+       
         <div>
           <button type="button" class="btn btn-outline-secondary">
-            Facebook
+            <i class="fa-brands fa-twitter"></i> Twitter
           </button>
         </div>
         <div>
           <button type="button" class="btn btn-outline-secondary">
-            Twitter
-          </button>
-        </div>
-        <div>
-          <button type="button" class="btn btn-outline-secondary">
-            GooglePlus
+            <i class="fa-brands fa-google-plus-g"></i> Google Plus
           </button>
         </div>
         </div>
