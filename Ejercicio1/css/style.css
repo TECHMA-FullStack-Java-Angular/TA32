@@ -1,0 +1,29 @@
+body {
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+}
+
+#loginForm {
+  text-align: center;
+}
+
+#form {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: white;
+}
+
+form {
+  background-color: rgb(195, 190, 190);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+.footer {
+  text-align: center;
+}
+.mb-3 {
+  border-radius: 5px;
+}
