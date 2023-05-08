@@ -23,17 +23,17 @@ body {
 a {
   padding: 5px;
 }
-#navBar{
-    background-color: rgb(5, 44, 106);
-    margin-left: 1%;
-    margin-right: 1%;
-    margin-top: -1%;
-    border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px;
+#navBar {
+  background-color: rgb(5, 44, 106);
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: -1%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
-.navIz{
-    width: 50%;
+.navIz {
+  width: 60%;
 }
-.simbol{
-    margin-right: 3%;
+.simbol {
+  margin-right: 3%;
 }
