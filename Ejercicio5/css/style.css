@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+}
+#pie{
+    justify-content: space-between;
+}
+body{
+    padding: 5%;
+}
