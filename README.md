@@ -17,8 +17,20 @@
 
 [Resolución ejercicio 2](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio2)
 
-- [ ] Ejercicio 3: Crea la siguiente barra de menú con Bootstrap
+- [X] Ejercicio 3: Crea la siguiente barra de menú con Bootstrap
 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/110301198/236879785-d7679a25-02b9-49a8-9ee0-3ca0f87ac182.png">
 
 [Resolución ejercicio 3](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio3)
+
+- [X] Ejercicio 4: Crea la siguiente pantalla con Bootstrap
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/110301198/237055061-1336f243-457b-44d8-9b74-88d442c19043.png">
+
+[Resolución ejercicio 4](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio4)
+
+- [ ] Ejercicio 5: Crea la siguiente tabla de presentación de datos con Bootstrap
+
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/110301198/237055360-562c60e1-6a4f-4ed3-902c-750317af52bc.png">
+
+[Resolución ejercicio 5](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio5)
