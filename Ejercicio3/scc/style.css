@@ -16,6 +16,7 @@ body {
 .end {
   justify-content: flex-end;
   width: 50%;
+  align-items: center;
 }
 .between {
   justify-content: space-between;
@@ -30,10 +31,19 @@ a {
   margin-top: -1%;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+  display: flex;
 }
 .navIz {
-  width: 60%;
+  width: 70%;
+
 }
 .simbol {
   margin-right: 3%;
+}
+#navDer{
+    width: 50%;
+
+}
+.icon{
+    padding-left: 3%;
 }
