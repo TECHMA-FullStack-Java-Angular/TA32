@@ -29,8 +29,14 @@
 
 [Resolución ejercicio 4](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio4)
 
-- [ ] Ejercicio 5: Crea la siguiente tabla de presentación de datos con Bootstrap
+- [X] Ejercicio 5: Crea la siguiente tabla de presentación de datos con Bootstrap
 
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/110301198/237055360-562c60e1-6a4f-4ed3-902c-750317af52bc.png">
 
 [Resolución ejercicio 5](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio5)
+
+- [X] Ejercicio 8: Crea la siguiente calculadora con Bootstrap y JQuery
+
+<img width="292" alt="image" src="https://github.com/TECHMA-FullStack-Java-Angular/TA32/assets/110301198/b50017fe-4626-4897-b8c6-95885b9e9052">
+
+[Resolución ejercicio 8](https://techma-fullstack-java-angular.github.io/TA32/Ejercicio8)
