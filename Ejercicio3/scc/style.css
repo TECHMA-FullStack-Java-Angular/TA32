@@ -12,12 +12,14 @@ body {
   margin: 1%;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
+  height: 30px;
 }
 .end {
   justify-content: flex-end;
   width: 50%;
-  align-items: center;
+
 }
+
 .between {
   justify-content: space-between;
 }
