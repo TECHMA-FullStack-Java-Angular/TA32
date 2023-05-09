@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+#articulos{
+    justify-content: space-between;
+}
+body{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#destaque{
+    padding: 5%;
+}
+
+#articulos{
+    padding: 5%;
+}
