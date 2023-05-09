@@ -3,8 +3,14 @@
 
 }
 #calculadora{
-    width: 50%;
+
     padding: 5%;
     
 }
 
+.form-control{
+    margin-bottom: 5%;
+}
+body{
+    margin: 10%;
+}
